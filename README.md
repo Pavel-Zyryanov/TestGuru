@@ -21,4 +21,11 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Сущности TestGuru:
+
+администратор
+пользователь
+тест
+вопрос
+ответ
+результат
